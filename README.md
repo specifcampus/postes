@@ -18,6 +18,10 @@ Catalogue participatif des postes de chercheurs et enseignants chercheurs en inf
 
 - [Université de Perpignan, LIRMM MCF](https://perso.univ-perp.fr/langlois/images/pdf/PUB_MCF27_2020.pdf)
 
+### Reims
+
+- [Université de Reims Champagne-Ardenne, CReSTIC PR](http://www.gdr-isis.fr/news/6837/121/Poste-PR-27-Reims-HPC-et-Image.html)
+
 ### Strasbourg
 
 - [INRIA CR](https://mimesis.inria.fr/job-offers/engineer-positions/faculty-position/)
