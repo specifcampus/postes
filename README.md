@@ -10,6 +10,10 @@ Catalogue participatif des postes de chercheurs et enseignants chercheurs en inf
 
 - [Université d'Avignon/CERI, LIA MCF](https://lia.univ-avignon.fr/wp-content/uploads/sites/40/2019/12/STS_MCF27_FOP_0840685N_4152.pdf)
 
+### Brest
+
+- [IMT Atlantique, Lab-STICC MCF](https://www.imt-atlantique.fr/fr/maitre-de-conferences-fh-en-intelligence-artificielle-cooperation-humain-systeme)
+
 ### Grenoble
 
 - [Grenoble INP/Ensimag, Verimag MCF](https://www-verimag.imag.fr/Ensimag-Assistant-professor-position-in.html?lang=fr)
