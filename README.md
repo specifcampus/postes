@@ -2,6 +2,16 @@
 
 Catalogue participatif des postes de chercheurs et enseignants chercheurs en informatique ouverts dans l'ESR public français.
 
+*Nous avons décidé de collecter de manière collaborative
+les annonces qui apparaissent dans nos réseaux (associations thématiques, GdR, établissement)
+sur le modèle du [catalogue des formations en informatique de l'ESR public français](https://github.com/specifcampus/formations).
+Il s'agit de collecter des liens vers des fiches de postes, classées par lieu d'exercice.
+L'idée étant de partager cette information le plus tôt possible, même si elle est peu structurée.
+Nous rappelons que la SMAI héberge un site ["Opération Postes"](http://postes.smai.emath.fr/) qui permet de suivre de manière 
+plus détaillée les concours MCF et PR dans les sections 25, 26 et 27 en se basant
+là aussi sur une approche collaborative. Nous vous encourageons à y renseigner les informations
+concernant les postes de vos établissements.*
+
 > MCF = [maître de conférences](https://fr.wikipedia.org/wiki/Maître_de_conférences_(France)), PR = [professeur des universités](https://fr.wikipedia.org/wiki/Professeur_des_universités), CR = [chargé de recherche](https://fr.wikipedia.org/wiki/Chercheur_des_établissements_publics_scientifiques_et_technologiques_français#Les_chargés_de_recherche), DR = [directeur de recherche](https://fr.wikipedia.org/wiki/Chercheur_des_établissements_publics_scientifiques_et_technologiques_français#Les_chargés_de_recherche)
 
 ## 2020
