@@ -12,7 +12,7 @@ plus détaillée les concours MCF et PR dans les sections 25, 26 et 27 en se bas
 là aussi sur une approche collaborative. Nous vous encourageons à y renseigner les informations
 concernant les postes de vos établissements.*
 
-> MCF = [maître de conférences](https://fr.wikipedia.org/wiki/Maître_de_conférences_(France)), PR = [professeur des universités](https://fr.wikipedia.org/wiki/Professeur_des_universités), CR = [chargé de recherche](https://fr.wikipedia.org/wiki/Chercheur_des_établissements_publics_scientifiques_et_technologiques_français#Les_chargés_de_recherche), DR = [directeur de recherche](https://fr.wikipedia.org/wiki/Chercheur_des_établissements_publics_scientifiques_et_technologiques_français#Les_chargés_de_recherche)
+> MCF = [maître de conférences](https://fr.wikipedia.org/wiki/Maître_de_conférences_(France)), PR = [professeur.e des universités](https://fr.wikipedia.org/wiki/Professeur_des_universités), CR = [chargé.e de recherche](https://fr.wikipedia.org/wiki/Chercheur_des_établissements_publics_scientifiques_et_technologiques_français#Les_chargés_de_recherche), DR = [directeur/directrice de recherche](https://fr.wikipedia.org/wiki/Chercheur_des_établissements_publics_scientifiques_et_technologiques_français#Les_chargés_de_recherche)
 
 ## 2020
 
