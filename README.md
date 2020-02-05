@@ -28,6 +28,10 @@ concernant les postes de vos établissements.*
 
 - [Grenoble INP/Ensimag, Verimag MCF](https://www-verimag.imag.fr/Ensimag-Assistant-professor-position-in.html?lang=fr)
 
+### Paris
+
+- [TelecomParis, MCF](https://framaforms.org/open-position-on-explainable-ai-1577180789)
+
 ### Perpignan
 
 - [Université de Perpignan, LIRMM MCF](https://perso.univ-perp.fr/langlois/images/pdf/PUB_MCF27_2020.pdf)
