@@ -28,9 +28,14 @@ concernant les postes de vos établissements.*
 
 - [Grenoble INP/Ensimag, Verimag MCF](https://www-verimag.imag.fr/Ensimag-Assistant-professor-position-in.html?lang=fr)
 
+### Laval
+
+- [ESTACA](https://www.estaca.fr/files/200/Recrutement-Recherche/151/Enseignant-e-Chercheur-se-systemes-embarques.pdf)
+
 ### Paris
 
 - [TelecomParis, MCF](https://framaforms.org/open-position-on-explainable-ai-1577180789)
+- [Polytechnique, équivalent MCF/PR](https://portail.polytechnique.edu/informatique/fr/rubrique-2/page-de-liste-offre-demploi)
 
 ### Perpignan
 
