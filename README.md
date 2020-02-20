@@ -49,6 +49,10 @@ concernant les postes de vos établissements.*
 
 - [Université de Reims Champagne-Ardenne, CReSTIC PR](http://www.gdr-isis.fr/news/6837/121/Poste-PR-27-Reims-HPC-et-Image.html)
 
+### Rennes
+
+- [IMT Atlantique, PR](https://www.imt-atlantique.fr/fr/professeur-fh-en-cybersecurite)
+
 ### Strasbourg
 
 - [INRIA CR](https://mimesis.inria.fr/job-offers/engineer-positions/faculty-position/)
