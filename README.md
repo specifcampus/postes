@@ -32,6 +32,10 @@ concernant les postes de vos établissements.*
 
 - [ESTACA](https://www.estaca.fr/files/200/Recrutement-Recherche/151/Enseignant-e-Chercheur-se-systemes-embarques.pdf)
 
+### Lyon
+
+- [LIRIS, 3MCF 1PR](https://liris.cnrs.fr/emplois)
+
 ### Paris
 
 - [TelecomParis, MCF](https://framaforms.org/open-position-on-explainable-ai-1577180789)
